@@ -9,6 +9,6 @@ With the existing version of **Controlled Delay Active Queue Management** algori
 
 #### References
 
-[1] https://ieeexplore.ieee.org/abstract/document/7947857/
-[2] https://tools.ietf.org/html/rfc8289
-[3] https://elixir.bootlin.com/linux/latest/source/net/sched/sch_codel.c
+[1] https://ieeexplore.ieee.org/abstract/document/7947857/ 
+[2] https://tools.ietf.org/html/rfc8289 
+[3] https://elixir.bootlin.com/linux/latest/source/net/sched/sch_codel.c 
