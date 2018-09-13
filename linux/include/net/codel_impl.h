@@ -51,7 +51,7 @@
 
 static void codel_params_init(struct codel_params *params)
 {
-	params->interval = MS2TIME(100);
+	params->interval = MS2TIME(30);		//interval time changed from Default of 100ms to 30ms
 	params->target = MS2TIME(5);
 	params->ce_threshold = CODEL_DISABLED_THRESHOLD;
 	params->ecn = false;
