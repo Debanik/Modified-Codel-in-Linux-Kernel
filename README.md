@@ -5,7 +5,7 @@
 ###### Assignment: #FP4
 
 #### Overview:
-With the existing version of **Controlled Delay Active Queue Management** algorithm [2] shown to be *inefficient* in case of UDP flows as well as the *proposed modifications* [1], we implement this **Modified Controlled Delay Active Queue Management** algorithm with the **_interval_** knob set to **30ms** and a **modified CoDel Control Law** in the Linux Kernel with the help of pre-existing CoDel kernel code [3] and testing this modified AQM algorithm from a Linux machine to analyze and evaluate the results.
+With the existing version of **Controlled Delay Active Queue Management** algorithm [2] shown to be *inefficient* in case of UDP flows as well as the *proposed modifications* [1], we implement this **Modified Controlled Delay Active Queue Management** algorithm with the **_interval_** knob set to **30ms** , remove the square root over the count variable and a **modified CoDel Control Law** in the Linux Kernel with the help of pre-existing CoDel kernel code [3] and testing this modified AQM algorithm from a Linux machine to analyze and evaluate the results.
 
 #### References
 
