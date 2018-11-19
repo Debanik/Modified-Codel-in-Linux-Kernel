@@ -1,4 +1,4 @@
-# Modified-Codel-in-Linux-Kernel
+# Modified-CoDel-in-Linux-Kernel
 
 #### Implementation and Evaluation of a modified version of the Controlled Delay Active Queue Management algorithm in Linux Kernel
 ###### Course Code: CS738
